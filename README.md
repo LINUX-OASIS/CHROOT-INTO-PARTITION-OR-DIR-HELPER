@@ -59,7 +59,7 @@ If any of these dependencies are missing, the script will detect them and offer 
 
 2.  **Make the script executable:**
     ```bash
-    chmod +x custom-CHROOT-INTO-PARTITION-OR-DIR.sh
+    chmod +x custom-CHROOT-INTO-PARTITION-OR-DIR
     ```
 
 ---
@@ -69,7 +69,7 @@ If any of these dependencies are missing, the script will detect them and offer 
 The script must be run with root privileges. Simply execute it with `sudo`:
 
 ```bash
-sudo ./custom-CHROOT-INTO-PARTITION-OR-DIR.sh
+sudo ./custom-CHROOT-INTO-PARTITION-OR-DIR
 ```
 
 You will be presented with a menu to choose whether to chroot into a partition or a directory. Follow the on-screen prompts. To exit the chroot environment, simply type `exit` or press `Ctrl+D`.
