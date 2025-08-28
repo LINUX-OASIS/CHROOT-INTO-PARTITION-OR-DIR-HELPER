@@ -3,13 +3,13 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/chroot-helper)](https://github.com/LINUX-OASIS/chroot-helper/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/LINUX-OASIS/chroot-helper)](https://github.com/LINUX-OASIS/chroot-helper/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/LINUX-OASIS/chroot-helper)](https://github.com/LINUX-OASIS/chroot-helper/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/LINUX-OASIS/chroot-helper)](https://github.com/LINUX-OASIS/chroot-helper/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/LINUX-OASIS/chroot-helper)](https://github.com/LINUX-OASIS/chroot-helper/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER)](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER)](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER)](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER)](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/network)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER)](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/commits/main)
 
-A Bash script that provides a user-friendly `whiptail` interface to easily `chroot` into any available Linux partition or a specified directory. It handles the tedious but essential tasks of mounting pseudo-filesystems and preserving network connectivity, ensuring a fully functional and safe chroot environment.
+A Bash script that provides a user-friendly `whiptail` interface to easily `chroot` into any available Linux partition or a specified directory. It handles the tedious but essential tasks of mounting [...]
 
 !chroot-helper-demo
 *(Demo GIF placeholder)*
@@ -53,8 +53,8 @@ If any of these dependencies are missing, the script will detect them and offer 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/LINUX-OASIS/chroot-helper.git
-    cd chroot-helper
+    git clone https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER.git
+    cd CHROOT-INTO-PARTITION-OR-DIR-HELPER
     ```
 
 2.  **Make the script executable:**
@@ -78,23 +78,22 @@ You will be presented with a menu to choose whether to chroot into a partition o
 
 ## 💬 Contributing
 
-Pull requests, issues, and suggestions are warmly welcomed!
-See `CONTRIBUTING.md` for guidelines.
+Pull requests, issues, and suggestions are warmly welcomed! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## 🌐 Links
 
-*   **Issues**: github.com/LINUX-OASIS/chroot-helper/issues
-*   **Pull Requests**: github.com/LINUX-OASIS/chroot-helper/pulls
-*   **Releases**: github.com/LINUX-OASIS/chroot-helper/releases
-*   **Wiki**: github.com/LINUX-OASIS/chroot-helper/wiki
+*   **Issues**: [github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/issues](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/issues)
+*   **Pull Requests**: [github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/pulls](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/pulls)
+*   **Releases**: [github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/releases](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/releases)
+*   **Wiki**: [github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/wiki](https://github.com/LINUX-OASIS/CHROOT-INTO-PARTITION-OR-DIR-HELPER/wiki)
 
 ---
 
 ## 🧙‍♂️ Maintainer
 
-**LINUX-OASIS** (https://github.com/LINUX-OASIS)
+**[LINUX-OASIS](https://github.com/LINUX-OASIS)**
 
 ---
 
